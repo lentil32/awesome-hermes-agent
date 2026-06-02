@@ -19,6 +19,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 - [Showcase Projects](#showcase-projects)
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Community](#community)
+- [Related Lists](#related-lists)
 
 ## Official Resources
 
@@ -48,7 +49,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Over 700 cybersecurity skills mapped to the MITRE ATT&CK framework.
 - [black-forest-labs/skills](https://github.com/black-forest-labs/skills) - Official FLUX image generation skills for agent-driven visual content creation.
-- [chainlink-agent-skills](https://github.com/smartcontractkit/chainlink-agent-skills) - Official Chainlink integration skills for Blockchain oracle interactions.
+- [chainlink-agent-skills](https://github.com/smartcontractkit/chainlink-agent-skills) - Official Chainlink integration skills for blockchain oracle interactions.
 - [evey-bridge-plugin](https://github.com/42-evey/evey-bridge-plugin) - Plugin bridging Claude Code and Hermes Agent for cross-tool workflows.
 - [execplan-skill](https://github.com/tiann/execplan-skill) - Complex task execution skill with checkpoints and failure recovery.
 - [hermes-plugins](https://github.com/42-evey/hermes-plugins) - Collection of plugins for goal management, model selection, and cost control.
